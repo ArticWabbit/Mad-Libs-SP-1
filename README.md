@@ -1,7 +1,13 @@
-# Mad-Libs-SP-1
+# Python Course Projects
 
-2nd project of python course.
+Mad Libs Game
+-------------
+Inserts inputted words to mad libs story
 
-A program to insert user inputted words into a mad libs story.
+ Guessing Game
+ -------------
+ Prompts user to input code word until right word is guessed
  
- 
+ Cheems
+ ------
+ Replaces 3rd letter of a word to the letter 'm'
